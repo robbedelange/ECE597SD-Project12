@@ -1,1 +1,19 @@
 Proposal
+
+Motivation:
+
+Design Goals:
+
+Deliverables:
+
+System Blocks:
+
+hw/sw Requirements:
+
+Team Members responsibilities:
+
+Project Timeline:
+
+References:
+
+
